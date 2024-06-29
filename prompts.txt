@@ -1,0 +1,19 @@
+Purple Team: Desvendando os Códigos da Segurança Digital
+
+1. O que são Purple Team
+Os Purple Teams são grupos que combinam as habilidades dos Red Teams (que simulam ataques cibernéticos) e dos Blue Teams (que defendem contra esses ataques). Eles trabalham juntos para melhorar a segurança de uma organização, identificando e corrigindo vulnerabilidades de forma colaborativa.
+
+2. Qual a sua importância em Cyber Security
+Os Purple Teams são essenciais em cibersegurança porque unem as perspectivas ofensivas e defensivas. Isso permite que as organizações fortaleçam suas defesas de maneira mais eficaz, detectem falhas rapidamente e respondam às ameaças com maior eficiência, reduzindo o risco de ataques bem-sucedidos.
+
+3. Cite benefícios de ter um Profissional de Purple Team na sua Equipe TI
+Ter um profissional de Purple Team na equipe de TI traz diversos benefícios, como:
+
+Melhor integração entre defesa e ataque
+Resposta rápida e coordenada a incidentes
+Melhoria contínua das práticas de segurança
+4. Hashtags
+
+#CibersegurançaIntegrada
+#EquipePurple
+#DefesaColaborativa
